@@ -6,7 +6,7 @@
     <description>Recent content in Tags on 3panda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Jul 2018 10:04:47 +0900</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jul 2018 09:52:17 +0900</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title></title>
       <link>/tags/</link>
-      <pubDate>Fri, 06 Jul 2018 10:04:47 +0900</pubDate>
+      <pubDate>Mon, 02 Jul 2018 09:52:17 +0900</pubDate>
       
       <guid>/tags/</guid>
       <description></description>
@@ -35,6 +35,15 @@
       <pubDate>Thu, 05 Jul 2018 09:49:06 +0900</pubDate>
       
       <guid>/tags/%E8%BB%A2%E8%81%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>近況</title>
+      <link>/tags/%E8%BF%91%E6%B3%81/</link>
+      <pubDate>Fri, 06 Jul 2018 09:11:12 +0900</pubDate>
+      
+      <guid>/tags/%E8%BF%91%E6%B3%81/</guid>
       <description></description>
     </item>
     
