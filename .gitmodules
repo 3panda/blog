@@ -1,0 +1,8 @@
+[submodule "content/posts/public"]
+	path = content/posts/public
+	url = git@github.com:3panda/3panda.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:3panda/3panda.github.io.git
+	branch = master
