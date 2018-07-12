@@ -3,7 +3,7 @@ baseurl = "https://3panda.github.io/"
 languageCode = "ja"
 title = "3panda"
 theme = "hugo-theme-cactus-plus"
-googleAnalytics = "your_google_analytics_id"
+googleAnalytics = "UA-762460-6"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
 
