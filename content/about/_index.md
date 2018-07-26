@@ -6,6 +6,17 @@ categories = [""]
 draft = false
 +++
 
-3pandaへのお問い合わせは[こちら](https://docs.google.com/forms/d/e/1FAIpQLScwSTE25m2hve8s0VNAoFb__Jm_zabP7Snh1kn5b3Ri2_x1pw/viewform)までお願い致します。
+スーパーでは無いエンジニアです。
 
-経歴などについては[ここ](https://www.wantedly.com/users/116441)にだいたい書いてます。
+いわゆるロスジェ世代になります。
+
+Webフロント長くやっておりましたがここ三年くらいはゲームエンジニアをやっておりました。
+
+天才的なプログラミンが出来ませんが、関わるプロジェクト、サービス、プロダクトが成功する事、何よりも利用する人が幸せになる事に全力を尽くします。
+
+信念のあるプロジェクトにお誘い頂けるのでしたら出来る事は何でもやらせて頂きます。
+
+どうぞ宜しくお願い致します。
+
+
+3pandaへのお問い合わせなど有りましたら[こちら](https://docs.google.com/forms/d/e/1FAIpQLScwSTE25m2hve8s0VNAoFb__Jm_zabP7Snh1kn5b3Ri2_x1pw/viewform)までお願い致します。
