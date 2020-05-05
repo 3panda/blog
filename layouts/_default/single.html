@@ -23,12 +23,21 @@
                       </span>
                     </h2>
                 </header>
-                {{ if .Site.Params.enableToc }}
-                  {{ if .TableOfContents }}
+				{{- /* 変数化する */ -}}
+				{{- $useToc := (.Param "toc" | default true) -}}
+				{{- /* h[1-6]を探して数を数える */ -}}
+				{{- $header := slice -}}
+				{{- if $useToc -}}
+					{{- $header = (findRE "<h[1-6].*?>(?:.|\n)*?</h[1-6]>" .Content) -}}
+					{{- /* h[1-6]の数がtocMinimumよりも少ない時はToCを無効化 */ -}}
+					{{- if le (len $header) (.Param "tocMinimum" | default 2) -}}
+						{{- $useToc = false -}}
+					{{- end -}}
+				{{- end -}}
+				{{- if $useToc -}}
                     <div id="toc">
                       {{ .TableOfContents }}
                     </div>
-                  {{ end }}
                 {{ end }}
                 <section id="post-body">
                     {{ .Content }}
